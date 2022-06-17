@@ -1,0 +1,11 @@
+Package: hbwthemes
+Title: Personal Package Containing GGPlot2 Themes
+Version: 0.0.0.9000
+Authors@R: 
+    person("Hugh", "Warden", , "hugh.warden@outlook.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-4308-7316"))
+Description: A personal package containing ggplot2 themes that I use regularly.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
